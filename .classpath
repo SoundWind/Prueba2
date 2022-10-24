@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-api-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-api-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-chrome-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-chrome-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-chromium-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-chromium-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-devtools-v85-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-devtools-v85-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-devtools-v104-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-devtools-v104-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-devtools-v105-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-devtools-v105-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-devtools-v106-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-devtools-v106-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-edge-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-edge-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-firefox-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-firefox-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-http-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-http-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-ie-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-ie-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-java-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-java-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-json-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-json-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-remote-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-remote-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-safari-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-safari-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-support-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Regino/eclipse-workspace/prueba2/Java libreria/selenium-support-4.5.3-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
